@@ -1,0 +1,8 @@
+# readonly
+can be override only in constructor
+
+# protected
+can be reached in class where declared and in classes which extends this class but in function
+
+# private
+can be reached only in class where declared
